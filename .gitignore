@@ -136,7 +136,6 @@ node_modules/
 .next/
 next.config.js
 package-lock.json
-package.json
 artifacts/
 .dockerignore
 cache/
