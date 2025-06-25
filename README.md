@@ -54,7 +54,7 @@ Tested successfully on Ethereum test network. Also provided for this.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Warriormanx/vaarta.git
+git clone https://github.com/Warriormanx/Vaarta.git
 cd vaarta
 ```
 ### 2. Install Dependencies
