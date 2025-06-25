@@ -48,6 +48,8 @@ Welcome to the future of secure, decentralized communication.
 
 Tested successfully on Ethereum test network. Also provided for this.
 
+---
+
 ## 🖥️ Local Development
 
 ### 1. Clone the repo
