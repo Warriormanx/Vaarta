@@ -70,6 +70,10 @@ npx hardhat run scripts/deploy.js --network localhost
 ```bash
 npm run dev
 ```
+
+ Make sure to create an env.local file, for running on localhost and set
+- NEXT_PUBLIC_CONTRACT_ADDRESS = your contract address,
+- NEXT_PUBLIC_NETWORK = localhost 
 ---
 
 ## 🌍 Future Roadmap
