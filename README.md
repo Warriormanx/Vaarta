@@ -2,6 +2,7 @@
 
 > *"Vaarta" (वार्ता) - Sanskrit for dialogue, conversation, or news.*  
 Welcome to the future of secure, decentralized communication.
+> Try it out at [Vaarta](https://vaarta-app.netlify.app/)
 
 ---
 
